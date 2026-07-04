@@ -1,0 +1,8 @@
+{
+  "name": "Obesra",
+  "description": "Secure space for storing links and organizing thoughts with dynamic liquid-style interactions and gravity-free particles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
